@@ -6,7 +6,16 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.2.6",
-    "ejs": "*"
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "ejs": "*",
+    "express": "^3.2.6",
+    "file-system": "^2.2.2",
+    "mysql": "^2.16.0",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^1.0.0",
+    "passport-local": "^1.0.0",
+    "request": "^2.88.0",
+    "serve-static": "^1.13.2"
   }
 }
